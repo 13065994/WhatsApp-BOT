@@ -74,13 +74,13 @@ global.APIKeys = {
 global.botname = process.env.BOTNAME
 global.premium = 'true'
 global.packname = 'bot┃ᴮᴼᵀ'
-global.author = '  𝑖́𝑡𝑎𝑐ℎ𝑖☢𝑏𝑜𝑡࿐'
+global.author = '➛「𝐠𝐞𝐫𝐚𝐥𝐝」'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
 global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT'
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgsc = 'https://github.com/13065994/WhatsApp-BOT'
+global.fgyt = 'https://youtube.com/@Gohan'
+global.fgpyp = 'https://youtube.com/@gohan'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
