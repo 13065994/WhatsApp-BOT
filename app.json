@@ -25,7 +25,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": "S5SAW587"
+      "value": "5KQ6DG4E"
     },
     "MODE": {
       "description": "mode public or private",
